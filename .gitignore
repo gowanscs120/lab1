@@ -14,3 +14,7 @@ hs_err_pid*
 # gradle stuff
 !gradle/wrapper/gradle-wrapper.jar
 .gradle/
+
+# eclipse stuff
+.classpath
+.settings/
